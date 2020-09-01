@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "name": "Goliath Beetle",
+        "image": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_54.png",
+        "price": 8000
+    },
+    {
+        "id": 1,
+        "name": "Paper Kite Butterfly",
+        "image": "https://images.nintendolife.com/03cb73474ed95/paper-kite-butterfly.435x.jpg",
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "name": "Firefly",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/Firefly_NH.png/revision/latest?cb=20200611053009",
+        "price": 300
+    },
+    {
+        "id": 3,
+        "name": "Giant Water Bug",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Giant_water_bug.jpg/revision/latest?cb=20200330023158",
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "name": "Orchid Mantis",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoQZyiOim1kz90-xk280g0Z05UxWvXSJpV2Q&usqp=CAU",
+        "price": 2400
+    },
+    {
+        "id": 5,
+        "name": "Walker Cicada",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/EVwLRKhUEAAQFUS.jpg/revision/latest?cb=20200416204311",
+        "price": 400
+    },
+    {
+        "id": 6,
+        "name": "Tiger Butterfly",
+        "image": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_3.png",
+        "price": 240
+    },
+    {
+        "id": 7,
+        "name": "Great Purple Emperor",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Great_Purple_Emperor.png/revision/latest/top-crop/width/360/height/360?cb=20200327064430",
+        "price": 3000
+    },
+    {
+        "id": 8,
+        "name": "Tarantula",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Tarantula.jpg/revision/latest/top-crop/width/360/height/450?cb=20200330024002",
+        "price": 8000
+    },
+    {
+        "id": 9,
+        "name": "Darner Dragonfly",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/Darner_Dragonfly.jpeg/revision/latest?cb=20200405003425",
+        "price": 230
+    },
+    {
+        "id": 10,
+        "name": "Cicada Shell",
+        "image": "https://static1.gamerantimages.com/wordpress/wp-content/uploads/2020/07/animal-crossing-new-horizons-cicada-shell.jpg",
+        "price": 10
+    },
+    {
+        "id": 11,
+        "name": "Wasp",
+        "image": "https://gamespot1.cbsistatic.com/uploads/scale_landscape/1594/15949828/3651933-waspac2.jpg",
+        "price": 2500
+    },
+    {
+        "id": 12,
+        "name": "Grasshopper",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/EVwJutLUEAE40EH.jpg/revision/latest/top-crop/width/360/height/450?cb=20200416203628",
+        "price": 160
+    },
+    {
+        "id": 13,
+        "name": "Monarch Butterfly",
+        "image": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_8.png",
+        "price": 140
+    },
+    {
+        "id": 14,
+        "name": "Centipede",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Centipede.jpg/revision/latest/top-crop/width/360/height/360?cb=20200330184310",
+        "price": 300
+    },
+    {
+        "id": 15,
+        "name": "Pill Bug",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Pill_bug.jpg/revision/latest/top-crop/width/360/height/360?cb=20200330183106",
+        "price": 250
+    },
+    {
+        "id": 16,
+        "name": "Man-faced Stink Bug",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Man-faced_Stink_Bug.jpeg/revision/latest/top-crop/width/360/height/450?cb=20200405003504",
+        "price": 1000
+    },
+    {
+        "id": 17,
+        "name": "Bagworm",
+        "image": "data:image/jpeg;base64,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",
+        "price": 600
+    }
+]
